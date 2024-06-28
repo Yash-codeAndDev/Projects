@@ -1,0 +1,35 @@
+#theme-icon
+{
+    margin-right: 1rem;
+}
+ 
+#source-container
+{
+    display: 'flex' ; 
+} 
+
+#source
+{
+    position: absolute;
+    right: 0;
+}
+
+.news-image 
+{
+    max-height: 15rem;
+}
+.bookmark-icon
+{
+    position: absolute;
+    right: 0;
+    margin-right: 2rem;
+    cursor: pointer;
+}
+
+#bookmark-trash
+{
+    position: absolute;
+    right: 0;
+    margin-right: 2rem;
+    cursor: pointer;
+}
